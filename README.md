@@ -6,10 +6,10 @@
 
 <p>HTML-CSS-JavaScript kullanıldı. </br> Responsive yapı kullanıldı</p>
 
-![](/gif/mobile.gif)
+![](public/gif/mobile.gif)
 
-![](/gif/mobile-1.gif)
+![](public/gif/mobile-1.gif)
 
-![](/gif/mobile-2.gif)
+![](public/gif/mobile-2.gif)
 
-![](/gif/mobile-3.gif)
+![](public/gif/mobile-3.gif)
